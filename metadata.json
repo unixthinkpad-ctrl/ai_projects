@@ -1,0 +1,5 @@
+{
+  "name": "LinguaMaster",
+  "description": "A language learning tool that allows users to input text, select a language, and then make each word clickable to provide definitions, pronunciations, example sentences, and more using the Gemini API.",
+  "requestFramePermissions": []
+}
